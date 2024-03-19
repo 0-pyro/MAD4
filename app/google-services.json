@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87303288979",
+    "project_id": "third-time-s-the-charm-dca63",
+    "storage_bucket": "third-time-s-the-charm-dca63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87303288979:android:4e9fc66431d7bd4b05f566",
+        "android_client_info": {
+          "package_name": "com.example.thirdtimesthecharm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2b8Eax13PllgVImZkkUXfy0QOv_WP4FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
